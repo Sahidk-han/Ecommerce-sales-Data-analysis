@@ -24,4 +24,4 @@ Python · Pandas · NumPy · Plotly · Jupyter Notebook
   Labels and Envelopes contribute the least
 
   Screenshot/demo
-  Example:
+  Example:https://github.com/Sahidk-han/Ecommerce-sales-Data-analysis/blob/main/bar%20graph.png
